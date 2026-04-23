@@ -30,6 +30,17 @@ The models are structured using a bottom-up approach and include integrated fina
 
 ---
 
+### 3. Equity Research Report – Multi-Company Analysis
+
+- Equity research report covering 8 companies across different sectors
+- Comparative analysis using financial ratios, growth metrics, and profitability
+- Company ranking based on structured scoring methodology
+- Focus on revenue growth, margins, returns (ROE/ROA), and valuation metrics
+- Identification of strongest investment opportunity based on fundamentals
+- Designed to simulate real-world equity research and investment decision-making
+
+---
+
 ## Key Skills Demonstrated
 
 - Financial Modeling (3-Statement Models)
